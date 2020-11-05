@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Hyounwoo Sung</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Hyonwoo.
+        \n\nI love development.
+        \n\nI love development.
+        \n\nI love development.
+        \n\nI love development.
+        \n\nI love development.
+        \n\nI love development.
+        \n\nI love development.
+        \n\nI love development.
+        \n\n
+        \n\nI love development.
+        \n\nI love development.
+        \n\nI love development.
+        \n\nI love development.
+        \n\n
+        \n\nI love development.
+        \n\nI love development.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
